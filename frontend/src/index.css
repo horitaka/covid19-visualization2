@@ -1,0 +1,54 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+/* Always set the map height explicitly to define the size of the div
+ * element that contains the map. */
+
+#root {
+  height: 100%;
+}
+
+#map {
+  height: 100%;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* .app-container {
+  display: flex;
+  height: 100%;
+  width: 100%
+}
+
+.map-container {
+  flex: 1 1 70%;
+  height: 100%;
+}
+
+.controller-container {
+  flex: 1 1 30%;
+  height: 100%;
+}
+
+.controller-container__parts {
+  display: flex;
+  margin: 20px;
+  width: 100%;
+  height: auto;
+} */

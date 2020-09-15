@@ -1,0 +1,10 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "setup": "export GOOGLE_APPLICATION_CREDENTIALS=/Users/takahiro/Documents/takahiro/projects/covid19-visualization/firebase/covid19-visualization-effc5d48caa3.json",
+    "start": "firebase emulators:start"
+  },
+  "private": true,
+  "devDependencies": {}
+}
